@@ -1,0 +1,10 @@
+
+
+PROGRAMME=B.Tech
+DEPARTMENT=CS
+SEMESTER=7th
+COURSE_CODE=CS423
+INSTRUCTOR=Thoudam Doren Singh
+RATING=5
+COMMENT_INSTRUCTOR=Hardworking and knowledgeable
+COMMENT_COURSE=Efficient and sufficient
